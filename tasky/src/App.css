@@ -94,3 +94,18 @@ form {
   width: 50%;
   margin: auto;
 }
+
+.Lowpriority {
+  background-color: rgb(67, 144, 67);
+  color: black;
+}
+
+.Mediumpriority {
+  background-color: rgb(255, 255, 80);
+  color: black;
+}
+
+.Highpriority {
+  background-color: rgb(255, 57, 57);
+  color: black;
+}
